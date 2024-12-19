@@ -9,7 +9,6 @@
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@gfx638)](https://www.youtube.com/@gfx638)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ford6313@gmail.com)](mailto:ford6313@gmail.com)
 
-## Skills
 - 🔭 Unreal Engine
 <!--
 **HQVFX42/HQVFX42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
