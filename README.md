@@ -4,8 +4,10 @@
   
 </div>
 
-## 🌱 Programmer   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inho-j-b7b199195/)](https://www.linkedin.com/in/inho-j-b7b199195/)  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@gfx638)](https://www.youtube.com/@gfx638)
-- 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ford6313@gmail.com)](mailto:ford6313@gmail.com)
+## 🌱 Programmer
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inho-j-b7b199195/)](https://www.linkedin.com/in/inho-j-b7b199195/)  
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@gfx638)](https://www.youtube.com/@gfx638)  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ford6313@gmail.com)](mailto:ford6313@gmail.com)  
 
 ## Skills
 - 🔭 Unreal Engine
