@@ -4,13 +4,33 @@
   
 </div>
 
-## 🌱 Programmer [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carroll42)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inho-j-b7b199195/)](https://www.linkedin.com/in/inho-j-b7b199195/)
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@gfx638)](https://www.youtube.com/@gfx638)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ford6313@gmail.com)](mailto:ford6313@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inho-j-b7b199195/)](https://www.linkedin.com/in/inho-j-b7b199195/)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@gfx638)](https://www.youtube.com/@gfx638)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ford6313@gmail.com)](mailto:ford6313@gmail.com)
+
+# Welcome to My GitHub Page! 🎉
+
+I'm thrilled to have you here! This space is where I share my thoughts, projects, and experiences. Feel free to explore and discover what I've been working on.
+
   
-- 🔭 Unreal Engine
+## What You'll Find Here
+
+- **Project Showcases**: Dive into my latest coding adventures
+- **Learning Resources**: Helpful tips and tutorials I've gathered along the way
+
+## Coming Soon
+
+- **Blog Posts**: I'm currently working on setting up a blog to share insights and reflections on technology and development. Stay tuned!
+
+I hope you find something interesting or inspiring during your visit. Don't hesitate to reach out if you have any questions or just want to connect!
+
+Happy browsing! 😊
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carroll42)
+
 <!--
+[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png)](https://www.buymeacoffee.com/carroll42)
+
 **HQVFX42/HQVFX42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,5 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png)](https://www.buymeacoffee.com/carroll42)
 -->
