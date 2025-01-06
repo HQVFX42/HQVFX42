@@ -4,7 +4,7 @@
   
 </div> 
 
-# Welcome to My GitHub Page! 🎉
+# Welcome to My Page! 🎉
 
 I'm thrilled to have you here! This space is where I share my thoughts, projects, and experiences. Feel free to explore and discover what I've been working on.
 
