@@ -1,10 +1,3 @@
-<div align=right>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHQVFX42&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
-
 # Welcome to My GitHub Page! 🎉
 
 I'm thrilled to have you here! This space is where I share my thoughts, projects, and experiences. Feel free to explore and discover what I've been working on.
@@ -20,7 +13,12 @@ I hope you find something interesting or inspiring during your visit. Don't hesi
 
 Happy browsing! 😊
 
+<div align=right>
+  
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carroll42)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHQVFX42&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 
 <!--
 ## Coming Soon
