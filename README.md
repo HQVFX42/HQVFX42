@@ -6,7 +6,8 @@
 
 # Welcome to My Page! 🎉
 
-I'm thrilled to have you here! This space is where I share my thoughts, projects, and experiences. Feel free to explore and discover what I've been working on.
+I'm thrilled to have you here! This space is where I share my thoughts, projects, and experiences.  
+Feel free to explore and discover what I've been working on.
 
   
 ## What You'll Find Here
@@ -15,7 +16,8 @@ I'm thrilled to have you here! This space is where I share my thoughts, projects
 - 🌱 **Learning Resources**: Helpful tips and tutorials I've gathered along the way
 - :droplet: **Wisdom Well**: I'm currently working on setting up this page to share insights and reflections on technology and development. Stay tuned!
 
-I hope you find something interesting or inspiring during your visit. Don't hesitate to reach out if you have any questions or just want to connect! 😊
+I hope you find something interesting or inspiring during your visit.  
+Don't hesitate to reach out if you have any questions or just want to connect! 😊
 
 <div align=right>
   
