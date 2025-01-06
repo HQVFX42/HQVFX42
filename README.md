@@ -14,10 +14,7 @@ I'm thrilled to have you here! This space is where I share my thoughts, projects
 
 - 🔭 **Project Showcases**: Dive into my latest coding adventures
 - 🌱 **Learning Resources**: Helpful tips and tutorials I've gathered along the way
-
-## Coming Soon
-
-- ⚡ **Blog Posts**: I'm currently working on setting up a blog to share insights and reflections on technology and development. Stay tuned!
+- ⚡ **WisdomWell**: I'm currently working on setting up this page to share insights and reflections on technology and development. Stay tuned!
 
 I hope you find something interesting or inspiring during your visit. Don't hesitate to reach out if you have any questions or just want to connect!
 
@@ -26,6 +23,7 @@ Happy browsing! 😊
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/carroll42)
 
 <!--
+## Coming Soon
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inho-j-b7b199195/)](https://www.linkedin.com/in/inho-j-b7b199195/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@gfx638)](https://www.youtube.com/@gfx638)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ford6313@gmail.com)](mailto:ford6313@gmail.com)
